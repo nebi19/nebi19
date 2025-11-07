@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Nebiat 👋  
 
-<!--
-**nebi19/nebi19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Full-Stack Software Engineer** with 5+ years of experience building scalable apps using **Flutter, React, and Node.js**.  
+💡 Passionate about cross-platform development, clean architecture, and leveraging AI tools for productivity.  
+🌍 Open to remote opportunities.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+- **Frontend:** Flutter, React, HTML, CSS, JavaScript  
+- **Backend:** Node.js, Express.js  
+- **Databases:** MongoDB, PostgreSQL  
+- **Tools:** Git, Docker, CI/CD, Firebase  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 Featured Projects
+- 🔹 **Online Exam System** – Flutter + Node.js app for conducting and managing online exams.  
+- 🔹 **[New AI Tool Integration Project]** – (add when ready)
+- 🔹 **Portfolio Website** – (if you have one)
+
+📫 Reach me at: [yddya19@gmail.com] | [https://www.linkedin.com/in/byte-h-462ba8339/]
