@@ -5,14 +5,12 @@
 🌍 Open to remote opportunities.
 
 ### 🛠️ Tech Stack
-- **Frontend:** Flutter, React, HTML, CSS, JavaScript  
+- **Frontend:** Flutter, React, HTML, CSS, JavaScript  ,Android 
 - **Backend:** Node.js, Express.js  
 - **Databases:** MongoDB, PostgreSQL  
 - **Tools:** Git, Docker, CI/CD, Firebase  
 
 ### 🌟 Featured Projects
 - 🔹 **Online Exam System** – Flutter + Node.js app for conducting and managing online exams.  
-- 🔹 **[New AI Tool Integration Project]** – (add when ready)
-- 🔹 **Portfolio Website** – (if you have one)
 
-📫 Reach me at: [yddya19@gmail.com] | [https://www.linkedin.com/in/byte-h-462ba8339/]
+📫 Reach me at: [yddya19@gmail.com] | [https://www.linkedin.com/in/nebyat-h-462ba8339/]
